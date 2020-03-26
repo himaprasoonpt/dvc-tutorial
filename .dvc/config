@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = /Users/himaprasoon/tep/dvc_project/dvc_remote
