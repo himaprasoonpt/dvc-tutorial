@@ -1,0 +1,7 @@
+md5: 3d49e9c170bd8b9ec3ca1fc4dabe24f2
+outs:
+- md5: b248bbbf3e616193c43d9320449c25b7
+  path: third_file.txt
+  cache: true
+  metric: false
+  persist: false
