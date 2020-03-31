@@ -1,0 +1,7 @@
+md5: 8cbc17ee2cdc280ea4e0eacb1bed85ba
+outs:
+- md5: 4fcc82a88ee38e0aa16c17f512c685c9
+  path: ssh://himaprasoon@localhost:/Users/himaprasoon/tep/dvc_project/ssh_remote/ssh_file1.txt
+  cache: true
+  metric: false
+  persist: false
